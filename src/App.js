@@ -58,7 +58,7 @@ function App() {
           
         }
 
-        <p>Search Your Location <br></br>@Made By Ayush Malaye 2022</p>
+        <p>©️ Prajwal Narnaware 2022</p>
 
 
 
